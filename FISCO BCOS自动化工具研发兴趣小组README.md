@@ -39,4 +39,4 @@ FISCO BCOS自动化工具研发兴趣小组由社区开发者自发发起，小�
 
 |项目名称               |项目进展                                                     |下一步计划            |
 | ---------------------- | ------------------------------------------------------------ | --------------------- |
-| Ansible for FISCO BCOS | 基于FISCO BCOS2.6版本已上线开源  ：https://github.com/newtouch-cloud/ansible-for-fisco-bcos/tree/v2.6.2 | 适配FISCO BCOS2.7版本 |
+| Ansible for FISCO BCOS | 基于FISCO BCOS 2.7.x 版本已上线开源  ：https://github.com/newtouch-cloud/ansible-for-fisco-bcos/tree/v2.7.x-dev | 适配 FISCO BCOS2.7 版本，已有机构可增加群组。|
